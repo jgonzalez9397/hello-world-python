@@ -9,6 +9,8 @@ my_function()
 
 print("This is a test for Qodo Merge!")
 
-Pint("I added additonal stuff here for a PR"); 
+print("Ive cloned the remote main branch, synched it with my local main, now im going to push this udpate back up to the remote main")
+
+
 
 
